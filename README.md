@@ -1,5 +1,5 @@
 # businessProfits
--raw data is an object with nested arrays
--extracts month from UNIX datestamp
--calcs most profitable month
--calcs annual revenue
+Starting with revenue data in an object with nested arrays, 
+the code extracts the month from a UNIX datestamp,
+calcs most profitable month, and
+calcs annual revenue.
